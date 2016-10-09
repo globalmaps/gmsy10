@@ -10,3 +10,6 @@ Credit: "Global Map of Syria ©ISCGM/ GORS"
 Contact: General Organization of Remote Sensing (GORS).
 
 URL: www.gors-sy.org
+
+## metadata
+Raster layers (Land Cover & Vegetaion) are based on the Global Map Specifications 1.2.1. 
